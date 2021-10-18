@@ -14,9 +14,9 @@ import NoMatch from './pages/NoMatch';
 import Login from './pages/Login';
 import Signup from './pages/Signup';
 import Nav from './components/Nav';
-import store from "./utils/store"
 // import { StoreProvider } from './utils/GlobalState';
 import { Provider } from "react-redux";
+import store from "./utils/store"
 import Success from './pages/Success';
 import OrderHistory from './pages/OrderHistory';
 
