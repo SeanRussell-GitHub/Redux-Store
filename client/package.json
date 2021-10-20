@@ -23,7 +23,7 @@
     "redux": "^4.1.1"
   },
   "engines": {
-    "npm": "6.14",
+    "npm": "7.x",
     "node": "14.17"
   },
   "scripts": {
