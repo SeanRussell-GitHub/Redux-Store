@@ -8,6 +8,9 @@
     "watch": "nodemon server.js",
     "seed": "node config/seeds.js"
   },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
