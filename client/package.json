@@ -5,7 +5,7 @@
     "node": "14.17.1"
   },
   "private": true,
-  "proxy": "http://localhost:3001/",
+  "proxy": "http://localhost:3000/",
   "dependencies": {
     "@apollo/client": "^3.3.7",
     "@apollo/react-hooks": "^4.0.0",

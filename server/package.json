@@ -8,6 +8,7 @@
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
+    "server": "nodemon index.js --ignore client",
     "watch": "nodemon server.js",
     "seed": "node config/seeds.js"
   },
